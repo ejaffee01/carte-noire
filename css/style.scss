@@ -432,11 +432,11 @@ ul {
   }
 
 	.content-panel {
-		padding-left: 10px;
-		padding-right: 10px;
+		padding-left: 150px;
+		padding-right: 150px;
 		@media (min-width: $screen-md-min) {
-			padding-left: 30px;
-			padding-right: 30px;
+			padding-left: 50px;
+			padding-right: 50px;
 		}
 	}
 }
