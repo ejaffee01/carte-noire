@@ -1392,7 +1392,7 @@ html.mm-opened.mm-black .mm-page {
     border-color: rgba(255, 255, 255, 0.3); }
 
 .mm-menu.mm-black label.mm-toggle {
-  background: rgba(0, 0, 0, 0.2); }
+  background: rgba(255, 255, 255, 0.2); }
   .mm-menu.mm-black label.mm-toggle div {
     background: black; }
 .mm-menu.mm-black input.mm-toggle:checked ~ label.mm-toggle {
