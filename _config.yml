@@ -5,8 +5,7 @@ description: "Ethan Jaffee's personel webpage"
 baseurl: ""
 url: "http://ethanjaffee.com"
 title_description: "Ethan Jaffee is a senior at Westfield High School intending to major in Computer or Information Science."
-title_image: "https://scontent.fewr1-1.fna.fbcdn.net/v/t1.0-9/16473295_1649472615355574_5785544518198790549_n.jpg?_nc_cat=109&_nc_ht=scontent.fewr1-1.fna&oh=308834036c655f744ec2fa1eda1971e7&oe=5C8AD8CE"
-
+title_image: /image.jpg
 
 # Social usernames/URLs
 twitter_username: ejaffee01
