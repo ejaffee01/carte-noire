@@ -5,12 +5,12 @@
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro:400,700);
 
 /* Colours */
-$twitter:        #6dabda;
-$linkedin:       #2b77b1;
+$twitter:        #FFFFFF;
+$linkedin:       #FFFFFF;
 $xing:           #006567;
 $google-plus:    #c95644;
 $facebook:       #365899;
-$github:         #f6c2a4;
+$github:         #FFFFFF;
 $stack-overflow: #c98b3b;
 $instagram:      #cd486b;
 $reddit:         #cee3f8;
@@ -252,12 +252,12 @@ ul {
 	}
 
 	.content-panel:nth-of-type(1) {
-		border-bottom: 10px solid $light-blue;
+		border-bottom: 10px solid $red;
 	}
 
 	.author-header {
 		font-family: 'Montserrat', sans-serif;
-		color: $light-blue;
+		color: $red;
 		margin-top: 0px;
 		padding-top: 15px;
 		font-size: 30px;
