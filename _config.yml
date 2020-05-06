@@ -1,31 +1,19 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
+title: "Hi, I'm Ethan."
+email: ejaffee01@gmail.com
+description: "Ethan Jaffee's personel webpage"
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: 'https://scontent.fewr1-2.fna.fbcdn.net/v/t1.0-9/56883458_2031117313857767_755773884564766720_n.jpg?_nc_cat=105&_nc_ht=scontent.fewr1-2.fna&oh=1660ec90d44c1464a0ad308e8ff3c667&oe=5D6F245A'
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
-addthis_id: ra-513c6fa83da6ec67
-post_limit: 5
+url: "http://ethanjaffee.com"
+title_description: "I study Computer Science and Spanish at the University of Maryland, College Park."
+title_image: /image.jpg
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
-instagram_username: 
-reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
-xing_link:
-facebook_link:
-
-# Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+twitter_username: ejaffee01
+github_username: ejaffee01
+linkedin_link: https://www.linkedin.com/in/ethan-jaffee-4a527a173/
+facebook_link: https://www.facebook.com/profile.php?id=100008785533920
+mail: ejaffee01@gmail.com
+resume_link: http://ethanjaffee.com/resume.pdf
 
 # Build settings
 markdown: kramdown
